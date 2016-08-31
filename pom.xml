@@ -31,7 +31,7 @@
   <groupId>com.simplifi.it</groupId>
   <artifactId>otterx-codestyle-config</artifactId>
   <name>OtterX Codestyle Config</name>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <properties>
     <!-- skip source archives -->
