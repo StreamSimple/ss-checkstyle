@@ -24,15 +24,9 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <parent>
-    <groupId>com.simplifi.it</groupId>
-    <artifactId>otterx</artifactId>
-    <version>3.5.0-SNAPSHOT</version>
-  </parent>
-
-  <groupId>com.simplifi.it</groupId>
-  <artifactId>otterx-codestyle-config</artifactId>
-  <name>OtterX Codestyle Config</name>
+  <groupId>com.streamsimple.checkstyle</groupId>
+  <artifactId>checkstyle-config</artifactId>
+  <name>StreamSimple Checktyle Config</name>
   <version>1.0.0-SNAPSHOT</version>
 
   <properties>
