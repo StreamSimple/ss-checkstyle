@@ -158,7 +158,6 @@
     </module>
 
     <module name="ImportOrder">
-      <property name="groups" value="/^javax?\./,org,/org\.apache/,io,com,/com\.datatorrent/,*"/>
       <property name="ordered" value="true"/>
       <property name="option" value="bottom"/>
       <property name="sortStaticImportsAlphabetically" value="true"/>
